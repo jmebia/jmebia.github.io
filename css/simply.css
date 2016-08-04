@@ -1,0 +1,55 @@
+nav {
+	background-color: #3399ff;
+	width: 200px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	bottom: 0px;
+	z-index: 1;
+}
+
+#portrait {
+	border: 10px solid #3399ff;
+	border-radius: 50%;
+	float: left;
+	top: 50px;
+	left: 50px;
+	position: relative;
+	width: 150px;
+}
+
+#button-about:before {
+	content: "About";
+	float: right;
+	top: 60px;
+	position:relative; 
+	/*background-color: #1a1aff;*/
+    color: white;
+    padding: 15px 32px;
+    text-align: right;
+    display: inline-block;
+    font-size: 20px;
+	width: 100%;	
+}
+
+#button-projects:before {
+	content: "My Projects";
+	float: right;
+	top: 70px;
+	position:relative; 
+	/*background-color: #1a1aff;*/
+    color: white;
+    padding: 15px 32px;
+    text-align: right;
+    display: inline-block;
+    font-size: 20px;
+	width: 100%;	
+}
+
+#content {
+	float: right;
+	background-color: #1a1aff;
+	top: 300px;
+	right: 300px;
+	bottom: 300px;
+}
