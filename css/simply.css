@@ -1,55 +1,147 @@
-nav {
-	background-color: #3399ff;
-	width: 200px;
-	position: fixed;
-	top: 0px;
-	left: 0px;
-	bottom: 0px;
-	z-index: 1;
+body {
+	margin: 0px auto;
+	background-color: #336699;
+}
+
+.main {
+	background-color: white;
+	position: absolute;
+    height: 420px;
+    width: 900px;
+    margin: -100px 0 0 -200px;
+	top: 40%;
+	left: 30%;
+	right: 30%;
 }
 
 #portrait {
-	border: 10px solid #3399ff;
+	border: 10px solid white;
 	border-radius: 50%;
 	float: left;
-	top: 50px;
-	left: 50px;
+	top: -50px;
+	left: 100px;
 	position: relative;
 	width: 150px;
 }
 
-#button-about:before {
-	content: "About";
+/* Making a triangle */
+.arrow-up {
+  width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid black;
+  z-index: -1;
+  float: right;
+}
+
+.button {
+    color: white;
 	float: right;
+	padding: 15px 30px;
+	position:absolute;
+	width: 70px;
+	display: inline-block;
+	text-align: center;
+}
+
+#name {
+	font-family: "Comic Sans MS";
+	font-size: 26px;
+	top: 150px;
+	left: -100px;
+	position: relative;
+}
+
+#info {
+	font-family: "Comic Sans MS";
+	font-size: 15px;
+	top: 180px;
+	left: -300px;
+	position: relative;
+}
+
+/* GitHub button css */
+#github-button:link {
 	top: 60px;
-	position:relative; 
-	/*background-color: #1a1aff;*/
-    color: white;
-    padding: 15px 32px;
-    text-align: right;
-    display: inline-block;
+	right: -20px;	
+	background-color: #660066;
     font-size: 20px;
-	width: 100%;	
+	text-decoration: none;
 }
 
-#button-projects:before {
-	content: "My Projects";
-	float: right;
-	top: 70px;
-	position:relative; 
-	/*background-color: #1a1aff;*/
-    color: white;
-    padding: 15px 32px;
-    text-align: right;
-    display: inline-block;
-    font-size: 20px;
-	width: 100%;	
+#github-button:hover {
+	color: white;
+	background-color: #cc00cc;
+	width: 80px;
+	z-index: 1;
 }
 
-#content {
-	float: right;
-	background-color: #1a1aff;
-	top: 300px;
-	right: 300px;
-	bottom: 300px;
+#github-shadow {
+  position: absolute;
+  top: 40px;
+  right: -20px;
+}
+
+/* Facebook button css */
+#facebook-button:link {
+	top: 120px;
+	right: -20px;	
+	background-color: #0033cc;
+    font-size: 20px;
+	text-decoration: none;
+}
+
+#facebook-button:hover {
+	color: white;
+	background-color: #0066ff;
+	width: 80px;
+}
+
+#facebook-shadow {
+  position: absolute;
+  top: 100px;
+  right: -20px;
+}
+
+/* Reddit button css */
+#reddit-button:link {
+	top: 180px;
+	right: -20px;	
+	background-color: #cc3300;
+    font-size: 20px;
+	text-decoration: none;
+}
+
+#reddit-button:hover {
+	color: white;
+	background-color: #ff6600;
+	width: 80px;
+}
+
+#reddit-shadow {
+  position: absolute;
+  top: 160px;
+  right: -20px;
+}
+
+/* twitter button css */
+#twitter-button:link {
+	top: 240px;
+	right: -20px;	
+	background-color: #0099ff;
+    font-size: 20px;
+	text-decoration: none;
+}
+
+#twitter-button:hover {
+	color: white;
+	background-color: #33ccff;
+	width: 80px;
+}
+
+#twitter-shadow {
+  position: absolute;
+  top: 220px;
+  right: -20px;
 }
