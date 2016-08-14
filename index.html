@@ -1,46 +1,69 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-	<title>Josiah Maius S. Ebia</title>
-	<link rel="stylesheet" type="text/css" href="./css/simply.css"/>
-	<link rel="stylesheet" type="text/css" href="./css/buttons.css"/>
+    <title>JM Ebia - Student</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href=".\css\content.css">
+	<link rel="stylesheet" href=".\css\buttons.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src=".\js\fade.js"></script>
 </head>
 <body>
-<div class="main">
-	<img src="./images/portrait.png" id="portrait">
-	
-	<!-- GitHub profile link -->
+
+<!-- Navigation Bar -->
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container-fluid">
+        <!-- Logo -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavBar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+            </button>
+            <a href="index.html" class="navbar-brand">JM EBIA</a>
+        </div>
+
+        <!-- Menu Items -->
+        <div class="collapse navbar-collapse" id="myNavBar">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- about me section -->
+<div class="container" id="about">
+	<img src="images/portrait.png" class="img-circle center-block img-responsive" width="180" height="180"
+	style="margin-top: 10%" />
+	<p id="name">Josiah Maius S. Ebia</p><br>
+	<p id="desc">Good day!<br>I am a third year computer science student at Adamson University. Java is my main programming language and I'm inloved with it. When I'm not programming, I mostly play video games, tabletop, and read (any) books. I am currently learning on how to write video games with JavaFX and also web development.</p>
+	<br>
+	<p>View my works on my GitHub page</p><br>
 	<a href="https://github.com/jmebia" target="_blank" title="See my works on GitHub!" 
 	id="github-button" class="button">GitHub</a>
-	<div class="arrow-up" id="github-shadow"></div>
-	
-	<!-- Facebook page link -->
-	<a href="https://www.facebook.com/jm.ebia" target="_blank" title="Find me on Facebook!"
-	id="facebook-button" class="button">Facebook</a>
-	<div class="arrow-up" id="facebook-shadow"></div>
-	
-	<!-- Reddit account link -->
-	<a href="https://www.reddit.com/user/Polt9/" target="_blank" title="Find me on Reddit as Polt9!" id="reddit-button" class="button">Reddit</a>
-	<div class="arrow-up" id="reddit-shadow"></div>
-	
-	<!-- Twitter page link -->
-	<a href="https://twitter.com/jm_ebia" target="_blank" title="Find me on twitter!" 
-	id="twitter-button" class="button">Twitter</a>
-	<div class="arrow-up" id="twitter-shadow"></div>
-	
-	<!-- Texts -->
-	<div id="name">Josiah Maius S. Ebia</div>
-	<div id="title">Student | Developer</div>
-	<div id="email">jmebia@gmail.com</div>
-	<hr/>
-	
-	<div id="about">
-	<h2>About Me</h2>
-	<p>
-		I am a 3rd year computer science student at Adamson University. I am currently the auditor of the <em>Adamson Computer Science Society (ACOMSS)</em> and a member of the <em>ACOMSS Coders</em>. I love creating stuff with Java. I mostly play video games and work on 'non-school-related' projects on my free time.
-	</p>
+</div>
+<!-- my contact section -->
+<div class="container center-block" id="contact" style="margin-top:5%">
+	<hr><h3 style="text-align: center">Contact</h3>
+	<div>
+		<br>
+		<p>Email me at</p>
+		<p style="font-size: 20px">jmebia@gmail.com</p>
+		<br><br>
+		<p>Find me on social media!</p><br>
+		<a href="https://www.facebook.com/jm.ebia" target="_blank" title="Find me on Facebook!"
+		id="facebook-button" class="button">Facebook</a><br><br><br>
+		<a href="https://www.reddit.com/user/Polt9/" target="_blank" title="Find me on Reddit as Polt9!" id="reddit-button" class="button">Reddit</a><br><br><br>
+		<a href="https://twitter.com/jm_ebia" target="_blank" title="Find me on twitter!" 
+		id="twitter-button" class="button">Twitter</a>
+		
 	</div>
 </div>
-
-</body>	
+</body>
 </html>
+
