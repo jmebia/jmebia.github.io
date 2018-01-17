@@ -1,14 +1,22 @@
-div#projects{
-	
-}
-
 .jumbotron
 {
     background: url('../images/city-background2.jpg') no-repeat center center;
+    min-height: 400px;
+	margin-bottom: 0px;
     background-size: cover;
-	min-height: 200px;
 }
 
-div#links {
+.greydiv{
+	min-height: 400px;
+	background-color: #DDDDDD;
+}
+
+.descdiv {
+	width: 80%;
+}
+
+div#intro {
+	padding-bottom:40px;
+	padding-top:30px;
 	
 }
