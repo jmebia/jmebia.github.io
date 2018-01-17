@@ -2,8 +2,11 @@ div#projects{
 	
 }
 
-.jumbotron {
-	
+.jumbotron
+{
+    background: url('../images/city-background2.jpg') no-repeat center center;
+    background-size: cover;
+	min-height: 200px;
 }
 
 div#links {
