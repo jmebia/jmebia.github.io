@@ -11,14 +11,22 @@
 	background-color: #DDDDDD;
 }
 
+
 .descdiv {
 	width: 80%;
 }
 
-div#intro {
+div.container-fluid {
 	padding-bottom:40px;
 	padding-top:30px;
-	
+	!important
+}
+
+div#proj {
+	background-color: #ffffff;
+	width: 250px;
+	height: 300px;
+	box-shadow: 5px 0px 8px #000000;
 }
 
 hr {
