@@ -7,7 +7,7 @@ ENV PIP_DISABLE_PIP_VERSION_CHECK=1
 ENV PYTHONUNBUFFERED=1
 
 # Install MkDocs and your desired plugins
-RUN pip install --no-cache-dir mkdocs mkdocs-material mkdocs-blog
+RUN pip install --no-cache-dir mkdocs mkdocs-material
 
 EXPOSE 8000
 
