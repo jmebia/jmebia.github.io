@@ -5,7 +5,7 @@ site_description: Developer Portfolio
 
 theme:
   name: material
-  logo: /assets/logo.png
+  logo: /assets/me.png
   palette:
   # Palette toggle for light mode
     - scheme: default
@@ -35,11 +35,9 @@ theme:
 
 nav:
   - Home: index.md
-  
-  - CV: cv.md
   - Projects:
-      - Overview: projects/overview.md
-  - Contact: contact.md
+      - Overview: projects/index.md
+  - CV: cv.md
 
 plugins:
   - search
@@ -63,7 +61,8 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/your-username
+      link: https://github.com/jmebia
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/your-profile
+      link: https://www.linkedin.com/in/jmebia/
   generator: false
+  favicon: assets/me.png
