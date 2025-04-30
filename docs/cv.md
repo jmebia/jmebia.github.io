@@ -4,7 +4,7 @@
 
 ## Work Experience 
 
-- Backend Developer / KodeTeQ Business Solutions Inc. `March 2022 – Present`
+- Backend Developer / KodeTeQ Business Solutions Inc. `March 2025 – Present`
 - Game Developer / Across Lunacia `February 2022 – March 2025`
 - Software Developer / MegaXcess IT Solutions, Inc. `June 2021 – February 2022`
 - Back-office IT Developer / Belvedere Vista Corporation `January 2021 – May 2021`
@@ -18,7 +18,7 @@
 
 Bachelor of Science in Computer Science / Adamson University `2014 - 2018 `
 
-- `Undergraduate Thesis:` Influencing Game Dynamics in A Roguelike Game Through Procedural Content Generation Using Genetic Algorithm
+- `Published Thesis:` Influencing Game Dynamics in A Roguelike Game Through Procedural Content Generation Using Genetic Algorithm
 
 ---
 
@@ -45,11 +45,13 @@ Bachelor of Science in Computer Science / Adamson University `2014 - 2018 `
 - Experienced with both SQL and NoSQL databases: MySQL, SQLServer, JSON
 
 ### Servers and DevOps
-- Experienced with containerization (Docker)
+- Experienced with containerization: Docker
 - Experienced in Apache, Nginx, and Node.js servers/environments
-- Experienced with Windows and Unix-based (Ubuntu/Debian & MacOS) environments 
-- Proficient with version control (Git)
+- Experienced with Unix-based environments: Linux, Ubuntu, Debian, MacOS  
+- Proficient with version control: Git
 - Experienced working with agile methodologies. 
 
 ---
 
+
+>    Want to work with me or maybe just connect? Hit me up [:fontawesome-solid-paper-plane: jm.ebia@kodeteq.com](mailto:jm.ebia@kodeteq.com) or through [:fontawesome-brands-linkedin: my LinkedIn profile](https://linkedin.com/u/jmebia)
