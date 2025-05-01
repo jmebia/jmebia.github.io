@@ -45,15 +45,14 @@ Outside my working hours, I am a full-time beagle parent and I love to play eith
 
 ## Contact and Socials
 
-You can shoot me a message at my work email: [jm.ebia@kodeteq.com](mailto:jm.ebia@kodeteq.com)
-
-Or feel free to check / follow me on any of my socials below:
+You can shoot me a message at my work email, or feel free to follow / check me out on any of my socials below:
 
 <div class="grid cards" markdown>
 
 - :fontawesome-brands-x-twitter: [__@Maiusebi__](https://x.com/Maiusebi) 
 - :fontawesome-brands-github: [__GitHub__](https://github.com/jmebia) 
 - :fontawesome-brands-linkedin: [__LinkedIn__](https://www.linkedin.com/in/jmebia/)
+- :fontawesome-solid-paper-plane: [__jm.ebia@kodeteq.com__](mailto:jm.ebia@kodeteq.com)
 
 </div>
 
