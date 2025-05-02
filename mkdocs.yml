@@ -5,9 +5,10 @@ site_description: Developer Portfolio
 
 theme:
   name: material
+  favicon: assets/favicon.ico
   features:
     - navigation.footer
-  logo: /assets/me.png
+  logo: /assets/favicon.ico
   palette:
   # Palette toggle for light mode
     - scheme: default
