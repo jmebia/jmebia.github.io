@@ -1,57 +1,113 @@
 # Josiah Maius S. Ebia
 
----
+<!-- **:fontawesome-solid-paper-plane: Email:** [jm.ebia@kodeteq.com](mailto:jm.ebia@kodeteq.com)    
+**:fontawesome-solid-phone: Phone:** +63 912 345 6789  
+**:fontawesome-brands-linkedin: LinkedIn:** [linkedin.com/in/jmebia](https://linkedin.com/in/jmebia)  
+**:fontawesome-brands-github: GitHub:** [github.com/jmebia](https://github.com/jmebia) -->
 
-## Work Experience 
+**Email:** [jm.ebia@kodeteq.com](mailto:jm.ebia@kodeteq.com)    
+**LinkedIn:** [linkedin.com/in/jmebia](https://linkedin.com/in/jmebia)  
+**GitHub:** [github.com/jmebia](https://github.com/jmebia)
 
-- Backend Developer / KodeTeQ Business Solutions Inc. `March 2025 – Present`
-- Game Developer / Across Lunacia `February 2022 – March 2025`
-- Software Developer / MegaXcess IT Solutions, Inc. `June 2021 – February 2022`
-- Back-office IT Developer / Belvedere Vista Corporation `January 2021 – May 2021`
-- Web Developer and Acting COO / Wyvern Corp `February 2019 – December 2020` 
-- Web Developer / Omnibus Technologies `June 2018 – September 2020` 
-- Intern / UP ITDC `December 2017 – April 2018` 
 
 ---
 
-## Education 
+## Work Experience
 
-Bachelor of Science in Computer Science / Adamson University `2014 - 2018 `
+### **Backend Developer**
 
-- `Published Thesis:` Influencing Game Dynamics in A Roguelike Game Through Procedural Content Generation Using Genetic Algorithm
+**KodeTeQ Business Solutions Inc.** — *March 2025 – Present*
+
+- Developing and maintaining back-end services
+- Implementing RESTful APIs and handling integrations with third-party services
+- Collaborating in an agile environment to meet rapid development goals and assisting in DevOps tasks
+
+### **Game Developer**
+
+**Across Lunacia** — *February 2022 – March 2025*
+
+- Sole programmer for a 2D pixel-art adventure game using Godot Engine and GDScript
+- Configured and managed Linux-based test and database servers for play testing
+- Developed and maintained the project’s website and web back-end
+
+### **Software Developer**
+
+**MegaXcess IT Solutions, Inc.** — *June 2021 – February 2022*
+
+- Built web applications with Laravel and React
+- Collaborated with a cross-functional team to deliver internal tools and client-facing dashboards, optimizing user workflows and reducing manual processes
+
+### **Back-office IT Developer**
+
+**Belvedere Vista Corporation** — *January 2021 – May 2021*
+
+- Created internal web dashboards using PHP and JavaScript
+- Maintained legacy codebases and improved system documentation
+
+### **Web Developer & Acting COO**
+
+**Wyvern Corp** — *February 2019 – December 2020*
+
+- Oversaw tech team operations while actively coding and deploying Laravel-based applications
+- Managed business operations, client relationships, and release planning
+
+### **Web Developer**
+
+**Omnibus Technologies** — *June 2018 – September 2020*
+
+- Developed and maintained eCommerce platforms and CMS sites
+- Integrated payment gateways and third-party APIs
+
+### **Intern**
+
+**UP ITDC (University of the Philippines Information Technology Development Center)** — *December 2017 – April 2018*
+
+- Assisted in web development projects using Django and Bootstrap
+- Gained foundational experience in customer support and agile workflows
 
 ---
 
-## Other Activities 
+## Education
 
-- Exhibitor / Indie Fiesta booth at the Electronic Sports and Gaming Summit (ESGS) `October 2018` 
-- Speaker / Getting Started in Game Development with Godot 3 at Adamson University `September 2018` 
-- Participant / WebGeek DevCup 2016 Hackathon 
-- Java Programming Competition Participant / Far Eastern University `2016` 
-- Auditor / Adamson Computer Science Society (ACOMSS) `2016 – 2017` 
-- Chief Research and Design Officer / ACOMSS Coders `2016` 
+**Bachelor of Science in Computer Science**  
+*Adamson University* — *2014 – 2018*
+
+- **Published Thesis:** *Influencing Game Dynamics in a Roguelike Game Through Procedural Content Generation Using Genetic Algorithm*
+
+---
+
+## Activities & Involvement
+
+- **Exhibitor** – Indie Fiesta Booth @ ESGS *(October 2018)*
+- **Speaker** – *Getting Started in Game Development with Godot 3*, Adamson University *(September 2018)*
+- **Participant** – WebGeek DevCup Hackathon *(2016)*
+- **Java Programming Competitor** – Far Eastern University *(2016)*
+- **Auditor** – Adamson Computer Science Society *(2016–2017)*
+- **Chief Research & Design Officer** – ACOMSS Coders *(2016)*
 
 ---
 
 ## Skills
 
-### Languages and Frameworks
-- Programming/scripting languages: PHP, HTML, CSS, JavaScript, C#.NET, Java, Python, GDScript 
-- Frameworks: Laravel, Django, Next.JS, Nest.Js
-- Front-end stacks: Bootstrap, Tailwind CSS, jQuery, ReactJS 
-- Proficient with [Godot Engine](https://godotengine.org/)
+### Languages & Frameworks
 
-### Database / DB Scripting
-- Experienced with both SQL and NoSQL databases: MySQL, SQLServer, JSON
+- **Languages:** PHP, JavaScript, Python, Java, C#.NET, HTML, CSS, GDScript, SQL
+- **Frameworks:** Laravel, Django, NestJS, Next.js
+- **Front-End:** ReactJS, Bootstrap, Tailwind CSS, jQuery
+- **Game Dev:** [Godot Engine](https://godotengine.org/)
 
-### Servers and DevOps
-- Experienced with containerization: Docker
-- Experienced in Apache, Nginx, and Node.js servers/environments
-- Experienced with Unix-based environments: Linux, Ubuntu, Debian, MacOS  
-- Proficient with version control: Git
-- Experienced working with agile methodologies. 
+### Database
+
+- **SQL/NoSQL:** MySQL, SQL Server, JSON-based NoSQL
+
+### DevOps & Tools
+
+- **Containerization:** Docker
+- **Web Servers:** Apache, Nginx, Node.js
+- **Environments:** Linux, Ubuntu, Debian, macOS
+- **Version Control:** Git
+- **Workflow:** Agile / Scrum
 
 ---
 
-
->    Want to work with me or maybe just connect? Hit me up [:fontawesome-solid-paper-plane: jm.ebia@kodeteq.com](mailto:jm.ebia@kodeteq.com) or through [:fontawesome-brands-linkedin: my LinkedIn profile](https://linkedin.com/u/jmebia)
+[Download PDF Version](/assets/josiah_maius_ebia_cv.pdf){ .md-button }
