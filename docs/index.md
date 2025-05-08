@@ -52,7 +52,7 @@ You can shoot me a message at my work email, or feel free to follow / check me o
 - :fontawesome-brands-x-twitter: [__@Maiusebi__](https://x.com/Maiusebi) 
 - :fontawesome-brands-github: [__GitHub__](https://github.com/jmebia) 
 - :fontawesome-brands-linkedin: [__LinkedIn__](https://www.linkedin.com/in/jmebia/)
-- :fontawesome-solid-paper-plane: [__jm.ebia@kodeteq.com__](mailto:jm.ebia@kodeteq.com)
+- :fontawesome-solid-paper-plane: [__hello@jmebia.com__](mailto:hello@jmebia.com)
 
 </div>
 

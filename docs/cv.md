@@ -1,14 +1,8 @@
 # Josiah Maius S. Ebia
 
-<!-- **:fontawesome-solid-paper-plane: Email:** [jm.ebia@kodeteq.com](mailto:jm.ebia@kodeteq.com)    
-**:fontawesome-solid-phone: Phone:** +63 912 345 6789  
+**:fontawesome-solid-paper-plane: Email:** [hello@jmebia.com](mailto:hello@jmebia.com)     
 **:fontawesome-brands-linkedin: LinkedIn:** [linkedin.com/in/jmebia](https://linkedin.com/in/jmebia)  
-**:fontawesome-brands-github: GitHub:** [github.com/jmebia](https://github.com/jmebia) -->
-
-**Email:** [jm.ebia@kodeteq.com](mailto:jm.ebia@kodeteq.com)    
-**LinkedIn:** [linkedin.com/in/jmebia](https://linkedin.com/in/jmebia)  
-**GitHub:** [github.com/jmebia](https://github.com/jmebia)
-
+**:fontawesome-brands-github: GitHub:** [github.com/jmebia](https://github.com/jmebia)
 
 ---
 
