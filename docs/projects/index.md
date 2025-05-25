@@ -4,14 +4,23 @@
 
 <div class="grid cards" markdown>
 
+<!-- Shader library -->
+-   :material-language-html5:{ .lg .middle } __Godot Shader Library__ `2025`
+
+    ---
+
+    A collection of shader libraries for Godot.
+
+    [:octicons-arrow-right-24: Visit Site](https://shaders.maiusebi.com){ target="_blank" } 
+
 <!-- Personal website -->
--   :material-language-html5:{ .lg .middle } __This Website__ `2025`
+-   :material-language-html5:{ .lg .middle } __My Homepage__ `2025`
 
     ---
 
     My website written using mkdocs with material theming, and hosted using github pages.
 
-    [:octicons-mark-github-24: Go to the Repo](https://github.com/jmebia/jmebia.github.io) 
+    [:octicons-mark-github-24: Go to the Repo](https://github.com/jmebia/jmebia.github.io){ target="_blank" }
 
 <!-- Thesis -->
 -   :material-language-java:{ .lg .middle } __Undergraduate Thesis__ `2017`
