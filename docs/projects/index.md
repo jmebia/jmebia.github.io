@@ -4,15 +4,6 @@
 
 <div class="grid cards" markdown>
 
-<!-- Shader library -->
--   :material-language-html5:{ .lg .middle } __Godot Shader Library__ `2025`
-
-    ---
-
-    A collection of shader libraries for Godot.
-
-    [:octicons-arrow-right-24: Visit Site](https://shaders.maiusebi.com){ target="_blank" } 
-
 <!-- Personal website -->
 -   :material-language-html5:{ .lg .middle } __My Homepage__ `2025`
 
