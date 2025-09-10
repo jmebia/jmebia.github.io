@@ -8,13 +8,11 @@
 
 
 ## What I do
-By day, I mainly do backend web applications development at KodeTeQ, an I.T. solutions company based in the Philippines.
+I mainly do fullstack web applications development (mostly focused on backend), from database design and architecture, to writing dynamic frontend pages.
 
-By night (and weekends!), I dive into my more creative side — designing and developing indie games in Godot.
+I also dive into my more creative side: designing and developing indie games in Godot.
 
 Outside my working hours, I am a full-time beagle parent and I love to play either digital or tabletop games. I also do digital illustrations and post them online!
-
-> TLDR; I'm a full-stack web developer / indie game dev / beagle-dad / gamer / artist
 
 ---
 
