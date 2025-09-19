@@ -14,10 +14,10 @@
 PHP, SQL, JavaScript, Python, GDScript, Markdown, Java, HTML, CSS, C#
 
 **Technologies:**
-Git, Laravel, MySQL, VS Code, Godot Engine, Selenium, Docker, Digital Ocean, AWS, Linux
+Git, Laravel, MySQL, VS Code, Godot Engine, Selenium, Docker, Digital Ocean, AWS, Linux, Apache, Nginx, Node.js, React
 
 **Others:**
-Agile Methodologies (Kanban & Scrum), Database Design, Game Design
+Agile Methodologies (Kanban & Scrum), Database Design, Game Design, REST APIs
 
 ---
 
