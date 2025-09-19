@@ -4,53 +4,75 @@
 **:fontawesome-brands-linkedin: LinkedIn:** [linkedin.com/in/jmebia](https://linkedin.com/in/jmebia)  
 **:fontawesome-brands-github: GitHub:** [github.com/jmebia](https://github.com/jmebia)
 
+[Download Latest PDF Version](/assets/josiah_maius_ebia_cv.pdf){ .md-button }
+
+---
+
+## Skills
+
+**Languages:**
+PHP, SQL, JavaScript, Python, GDScript, Markdown, Java, HTML, CSS, C#
+
+**Technologies:**
+Git, Laravel, MySQL, VS Code, Godot Engine, Selenium, Docker, Digital Ocean, AWS, Linux
+
+**Others:**
+Agile Methodologies (Kanban & Scrum), Database Design, Game Design
+
 ---
 
 ## Work Experience
 
 ### **Backend Developer**
 
-**KodeTeQ Business Solutions Inc.** — *March 2025 – Present*
+**KodeTeQ Business Solutions Inc.** — *March 2025 – September 2025*
 
-- Developing and maintaining back-end services
-- Implementing RESTful APIs and handling integrations with third-party services
-- Collaborating in an agile environment to meet rapid development goals and assisting in DevOps tasks
+- Designed the database and developed an "Event Ticketing System" using Laravel
+and Maya Checkout integration with webhooks.
+- Integrated a third-party casino game provider into our games management plat-
+form, enabling seamless access for thousands of active users.
+- Initiated in-house documentation for the company’s projects using MKDocs.
 
 ### **Game Developer**
 
 **Across Lunacia** — *February 2022 – March 2025*
 
-- Sole programmer for a 2D pixel-art adventure game using Godot Engine and GDScript
-- Configured and managed Linux-based test and database servers for play testing
-- Developed and maintained the project’s website and web back-end
+- Built polished, playable demos in Godot (GDScript) with narrative and combat systems, driving community engagement and playtesting.
+- Built a Python Discord bot and Laravel API under crunch time to manage hundreds of public tester accounts and integrate with Sky Mavis’ APIs — automating
+onboarding, syncing game data, and improving play-testing operations.
+- Deployed and managed Linux servers and MySQL on DigitalOcean for testing environments
 
 ### **Software Developer**
 
 **MegaXcess IT Solutions, Inc.** — *June 2021 – February 2022*
 
-- Built web applications with Laravel and React
-- Collaborated with a cross-functional team to deliver internal tools and client-facing dashboards, optimizing user workflows and reducing manual processes
+- Focused on backend development using Laravel, I built and maintained web applications that supported internal operations and client-facing platforms.
 
 ### **Back-office IT Developer**
 
 **Belvedere Vista Corporation** — *January 2021 – May 2021*
 
-- Created internal web dashboards using PHP and JavaScript
-- Maintained legacy codebases and improved system documentation
+- Developed a Laravel-based backoffice system handling thousands of daily accounting records and detailed reports, streamlining operations and reducing manual
+workload.
+- Helped secure production servers against daily attacks through system hardening
+and proactive monitoring.
 
-### **Web Developer & Acting COO**
+### **Web Developer & Founding Team Member**
 
 **Wyvern Corp** — *February 2019 – December 2020*
 
-- Oversaw tech team operations while actively coding and deploying Laravel-based applications
-- Managed business operations, client relationships, and release planning
+- Contributed to the early phases of development of the new payroll system for the
+Bureau of Internal Revenue (BIR) as part of the core dev team.
+- Wrote Python scripts using Selenium for test automations and data analysis.
 
-### **Web Developer**
+### **Web Developer & Founding Team Member**
 
 **Omnibus Technologies** — *June 2018 – September 2020*
 
-- Developed and maintained eCommerce platforms and CMS sites
-- Integrated payment gateways and third-party APIs
+- Developed a law firm management system using Laravel, built to streamline client
+records, case tracking, and billing. This platform became the core product that
+earned the team a spot in IdeaSpace, a competitive startup incubation program in
+the Philippines.
 
 ### **Intern**
 
@@ -72,6 +94,7 @@
 
 ## Activities & Involvement
 
+- **Participant** – Pixel Game Jam 2025 @ Itch.io *(June 2025)*
 - **Exhibitor** – Indie Fiesta Booth @ ESGS *(October 2018)*
 - **Speaker** – *Getting Started in Game Development with Godot 3*, Adamson University *(September 2018)*
 - **Participant** – WebGeek DevCup Hackathon *(2016)*
@@ -81,27 +104,3 @@
 
 ---
 
-## Skills
-
-### Languages & Frameworks
-
-- **Languages:** PHP, JavaScript, Python, Java, C#.NET, HTML, CSS, GDScript, SQL
-- **Frameworks:** Laravel, Django, NestJS, Next.js
-- **Front-End:** ReactJS, Bootstrap, Tailwind CSS, jQuery
-- **Game Dev:** [Godot Engine](https://godotengine.org/)
-
-### Database
-
-- **SQL/NoSQL:** MySQL, SQL Server, JSON-based NoSQL
-
-### DevOps & Tools
-
-- **Containerization:** Docker
-- **Web Servers:** Apache, Nginx, Node.js
-- **Environments:** Linux, Ubuntu, Debian, macOS
-- **Version Control:** Git
-- **Workflow:** Agile / Scrum
-
----
-
-[Download PDF Version](/assets/josiah_maius_ebia_cv.pdf){ .md-button }

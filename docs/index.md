@@ -12,7 +12,8 @@ In professional settings, I mainly do fullstack web applications development (mo
 
 When it comes to passion, I dive into my more creative side: designing and developing indie games in Godot. I also do digital illustrations and post them online!
 
-Outside my working hours, I am a full-time beagle parent and I love to play either digital or tabletop games. 
+Outside my working hours, I am a full-time beagle parent and I love to play tabletop or video games. 
+
 ---
 
 ## More about me
@@ -46,9 +47,9 @@ You can shoot me a message at my work email, or feel free to follow / check me o
 
 <div class="grid cards" markdown>
 
-- :fontawesome-brands-x-twitter: [__@Maiusebi__](https://x.com/Maiusebi) 
 - :fontawesome-brands-github: [__GitHub__](https://github.com/jmebia) 
 - :fontawesome-brands-linkedin: [__LinkedIn__](https://www.linkedin.com/in/jmebia/)
+- :fontawesome-brands-itch-io: [__Itch.io__](https://maiusebi.itch.io/)
 - :fontawesome-solid-paper-plane: [__hello@jmebia.com__](mailto:hello@jmebia.com)
 
 </div>
