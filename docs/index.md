@@ -8,11 +8,11 @@
 
 
 ## What I do
-In professional settings, I mainly do fullstack web applications development (mostly focused on backend), from database design and architecture, to writing dynamic frontend pages.
+By day, I build full-stack web apps — architecting databases, forging backends, and shaping clean frontends. I approach code as a system of moving parts, something to understand, optimize, and continually improve through experimentation and iteration.
 
-When it comes to passion, I dive into my more creative side: designing and developing indie games in Godot. I also do digital illustrations and post them online!
+By night, I dive into the creative side of computing: designing indie games in Godot, tinkering with algorithms and mechanics, and occasionally illustrating just because it feels good to make things.
 
-Outside my working hours, I am a full-time beagle parent and I love to play tabletop or video games. 
+When I’m off the keyboard, I’m usually hanging out with my beagle or diving into tabletop and video games.
 
 ---
 
